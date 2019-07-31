@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenTableTakeHome</string>
+    <string name="published_date_name">Published by %s on %s</string>
+    <string name="rated">(Rated: %s)</string>
+
+    <string name="no_internet">Please connect to internet and try again.</string>
+    <string name="no_content_available">No content available. Please try again later.</string>
+
+    <string name="api_key">KoRB4K5LRHygfjCL2AH6iQ7NeUqDAGAB</string>
+</resources>
